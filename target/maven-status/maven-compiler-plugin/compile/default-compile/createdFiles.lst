@@ -1,0 +1,12 @@
+rest/ProjectsResource.class
+dto/User.class
+dto/Projects.class
+dto/Tasks.class
+dao/UserDAO.class
+rest/UserResource.class
+rest/CustomersResource.class
+rest/TasksResource.class
+rest/TaskEntriesResource.class
+dao/DatabaseUtil.class
+dto/Customers.class
+dto/TaskEntries.class
